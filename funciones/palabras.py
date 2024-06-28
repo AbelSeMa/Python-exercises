@@ -30,6 +30,8 @@ def palabra_repetida(diccionario):
 
     return tuple(palabras)
 
+
+print(palabrerio("Verde nativo, verde de nativo que sueña verde nativo verde de nativo humana"))
 print(palabra_repetida(palabrerio("Verde nativo, verde de nativo que sueña verde nativo verde de nativo humana")))
 
 """
