@@ -52,6 +52,7 @@ print(palabra_repetida(palabrerio("Verde nativo, verde de nativo que sueña verd
     *** Segunda parte del ejercicio ***
         Problemas encontrados: Cuando hay más de una palabra con la misma repeteción 
                                 sólo se devolvía la ultima palabra del diccionario
-        Solución: Como ya sabemos el nº máximo de repeticiones, creamos una lista con ese mismo número, y añadimos las palabras que tengan esa repetición a la lista
+        Solución: Como ya sabemos el nº máximo de repeticiones, creamos una lista con ese mismo número, 
+                    y añadimos las palabras que tengan esa repetición a la lista
                     y devolvemos una tupla a partir de la lista de palabras y repeteción
 """
